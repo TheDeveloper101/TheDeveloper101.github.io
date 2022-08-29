@@ -23,17 +23,17 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
-    forks: true
+    archived: true
+    forks: false
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: sai.abhi.divvela
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
